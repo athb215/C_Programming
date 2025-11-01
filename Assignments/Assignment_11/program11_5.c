@@ -6,7 +6,7 @@
 //  Description :   To display all numbers between range in reverse order
 //  Input :         int, int
 //  Output :        int
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////

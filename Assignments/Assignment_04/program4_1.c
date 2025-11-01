@@ -6,7 +6,7 @@
 //  Description :   Display the multiplication of factors
 //  Input :         int
 //  Output :        int
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////

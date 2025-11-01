@@ -6,7 +6,7 @@
 //  Description :   Check the whether the input is vowel or not
 //  Input :         char
 //  Output :        BOOL
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////

@@ -7,7 +7,7 @@
 //  Description :   It is use to Check Divisible of 5
 //  Input :         int
 //  Output :        float
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////

@@ -6,7 +6,7 @@
 //  Description :   To print first 5 multiples of the input number
 //  Input :         int
 //  Output :        void
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////

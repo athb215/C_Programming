@@ -6,7 +6,7 @@
 //  Description :   Display the summation of the non factors
 //  Input :         int
 //  Output :        int
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////

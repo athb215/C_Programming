@@ -6,7 +6,7 @@
 //  Description :   To convert area in square feet to square in meter
 //  Input :         float
 //  Output :        double
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////

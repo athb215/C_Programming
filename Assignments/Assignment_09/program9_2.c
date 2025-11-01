@@ -6,7 +6,7 @@
 //  Description :   To convert value of USD in rupees 
 //  Input :         int
 //  Output :        int
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////

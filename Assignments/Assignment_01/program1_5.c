@@ -6,7 +6,7 @@
 //  Description :   Accept the number from user and Print Stars
 //  Input :         int
 //  Output :        string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////

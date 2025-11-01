@@ -6,7 +6,7 @@
 //  Description :   To get area of the circle
 //  Input :         float
 //  Output :        float
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////

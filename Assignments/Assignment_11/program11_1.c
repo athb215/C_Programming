@@ -6,7 +6,7 @@
 //  Description :   To display numbers between range
 //  Input :         int, int
 //  Output :        string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////

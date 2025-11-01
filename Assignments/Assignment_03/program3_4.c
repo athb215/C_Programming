@@ -6,7 +6,7 @@
 //  Description :   convert case of the input character
 //  Input :         char
 //  Output :        string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////

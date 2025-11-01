@@ -6,7 +6,7 @@
 //  Description :   It is used to Display 5 to 1
 //  Input :         void
 //  Output :        string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Atharva Kaustubh Bhutkar
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////
